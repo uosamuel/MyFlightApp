@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlightApplication</string>
+    <string name="title_activity_destination">Destination</string>
+    <string name="title_activity_booking_page">BookingPage</string>
+</resources>
